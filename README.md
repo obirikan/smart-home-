@@ -4,7 +4,7 @@ This project is a mobile app Smart Home System implemented using the ESP32 micro
 
 ---
 
-##  Features
+## Features
 
 * Control appliances (e.g., lights, fan, AC) using mobile or web interface
 * Monitor temperature, humidity, and motion
@@ -24,8 +24,6 @@ The ESP32 communicates with the backend using:
 
 ---
 
-## 🛠️ Tech Stack
-
 ### Hardware:
 
 * ESP32
@@ -41,7 +39,7 @@ The ESP32 communicates with the backend using:
 * AsyncStorage for token persistence in Expo React Native
 
 
-## 🔐 Authentication
+## Authentication
 Implemented using Firebase Auth:
 
 * Email/password login
