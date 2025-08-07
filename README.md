@@ -6,7 +6,7 @@ This project is a mobile app Smart Home System implemented using the ESP32 micro
 
 ## Features
 
-* Control appliances (e.g., lights, fan, AC) using mobile or web interface
+* Control appliances (e.g., lights, fan, AC) using mobile
 * Monitor temperature, humidity, and motion
 * User authentication with persistent login
 * Real-time updates using Server-Sent Events (SSE)
